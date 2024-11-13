@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>e1c22fc0-d84b-4d17-96fb-e3269b4d048d.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT17050" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT7214" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2761"
+          HEIGHT="2186"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2761"
+                  HEIGHT="2186">
+        
+        <TextBlock HPOS="1584"
+                   VPOS="204"
+                   WIDTH="963"
+                   HEIGHT="1019"
+                   ID="eSc_textblock_0d7d4596"
+                   >
+          <Shape><Polygon POINTS="1584 204 1584 1223 2547 1223 2547 204"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5ab7e056"
+                    
+                    BASELINE="1652 720 2376 707" 
+                    HPOS="1649"
+                    VPOS="646"
+                    WIDTH="725"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1651 719 1651 741 1747 750 1749 750 1891 739 1962 735 2370 735 2374 706 2370 655 2278 646 2276 646 2114 657 2084 648 2083 648 2081 648 2019 661 2017 661 1957 650 1955 650 1953 650 1951 650 1937 663 1935 663 1878 652 1877 652 1751 666 1745 666 1740 666 1667 655 1665 655 1663 655 1662 655 1649 663 1651 719"/></Shape>
+	    <String CONTENT="CELESTINE DONIAU-DANEST"
+                    HPOS="1649"
+                    VPOS="646"
+                    WIDTH="725"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05f60b1c"
+                    
+                    BASELINE="1659 826 2347 826" 
+                    HPOS="1658"
+                    VPOS="770"
+                    WIDTH="687"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1658 825 1658 850 1982 843 1991 847 1999 852 2001 852 2002 852 2004 852 2050 847 2073 843 2084 845 2108 852 2110 852 2112 852 2114 852 2145 845 2154 843 2161 845 2197 852 2199 852 2201 852 2217 843 2219 843 2221 843 2245 852 2247 852 2248 852 2250 852 2270 843 2272 843 2292 852 2294 852 2296 852 2345 841 2345 825 2345 792 1997 792 1968 779 1946 770 1944 770 1658 770 1658 825"/></Shape>
+	    <String CONTENT="SUR LES DÉBUTS DE LA GUERRE"
+                    HPOS="1658"
+                    VPOS="770"
+                    WIDTH="687"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85f34462"
+                    
+                    BASELINE="1800 979 2231 955" 
+                    HPOS="1793"
+                    VPOS="898"
+                    WIDTH="439"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="1798 978 1800 1029 1860 1040 1862 1040 1864 1040 1866 1040 1866 1038 1877 1029 1891 1040 1893 1040 1895 1040 1897 1040 1966 1027 2001 1018 2037 1018 2048 1025 2057 1031 2059 1031 2061 1031 2063 1031 2064 1031 2083 1023 2103 1016 2117 1023 2124 1027 2126 1027 2128 1027 2130 1027 2141 1023 2152 1018 2232 1020 2230 954 2223 898 1984 910 1975 907 1962 898 1960 898 1959 898 1957 898 1955 898 1953 898 1944 907 1926 899 1924 899 1922 899 1793 912 1798 978"/></Shape>
+	    <String CONTENT="1914-1918"
+                    HPOS="1793"
+                    VPOS="898"
+                    WIDTH="439"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4feeb98d"
+                    
+                    BASELINE="1713 542 2117 534" 
+                    HPOS="1707"
+                    VPOS="422"
+                    WIDTH="408"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="1711 541 1711 561 2115 551 2115 533 2112 482 2006 473 2004 473 1944 482 1904 471 1880 448 1877 446 1877 444 1875 444 1873 444 1871 444 1862 446 1849 448 1844 442 1818 422 1816 422 1815 422 1813 422 1707 422 1711 541"/></Shape>
+	    <String CONTENT="Journal"
+                    HPOS="1707"
+                    VPOS="422"
+                    WIDTH="408"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1e77afb"
+                    
+                    BASELINE="1848 622 1971 622" 
+                    HPOS="1847"
+                    VPOS="581"
+                    WIDTH="123"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1847 621 1847 626 1968 635 1970 621 1970 593 1869 581 1868 581 1866 581 1864 581 1847 590 1847 621"/></Shape>
+	    <String CONTENT="DE"
+                    HPOS="1847"
+                    VPOS="581"
+                    WIDTH="123"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
