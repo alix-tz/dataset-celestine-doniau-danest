@@ -1,31 +1,81 @@
-schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
-title: Repository’s Title
-url: 'Link to your data repository'
-project-name: >
-    Your project name
-project-website: 'Link to your project'
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: GT Celestine Doniau-Danest
+url: https://github.com/alix-tz/dataset-celestine-doniau-danest
 authors:
-    - name: 'Author Name'
-      surname: 'Author Firstname'
-      roles:
-      - 'transcriber'
-description: >
-  Description 
+  - name: Alix
+    surname: Chagué
+    orcid: 0000-0002-0136-4434
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+      - support
+  - name: Julie
+    surname: Cissé
+    roles:
+      - transcriber
+      - quality-control
+  - name: Radia
+    surname: Kichou
+    roles:
+      - transcriber
+      - quality-control
+institutions: []
+description: >-
+  Jeu de vérités de terrain pour la transcription automatique produit avec
+  eScriptorium dans le cadre du cours HNU2000 à l’Université de Montréal au
+  trimestre d'automne 2024. Le jeu de données contient 5 pages tirées
+  aléatoirement des numérisation du "Journal de Célestine Doniau-Danest sur les
+  débuts de la Guerre 1914-1918" mis en ligne par les Archives départementales
+  de la Somme. 
+
+
+  *Ground Truth dataset for automatic text recognition created with eScriptorium
+  during the HNU 2000 course at the Université de Montréal during the Fall 2024
+  semester. The dataset contains 5 pages taken randomly from the digitization of
+  the "Journal de Célestine Doniau-Danest sur les débuts de la Guerre 1914-1918"
+  (Diary of Célestine Doniau-Danest on the beginning of the 1914-1918 war),
+  published by the departmental archives of Somme.*
+project-name: HNU2000@UdeM
 language:
-  - eng
   - fra
-script: 
-  - Latn
-script-type: 'only-manuscript'
-time: 
-  notBefore: "1500"
-  notAfter: "1300"
-hands: 
-  count: '1-per-folder'
-  precision: 'exact'
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1914'
+  notAfter: '1915'
+hands:
+  count: '1'
+  precision: exact
 license:
-  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
-format: 'Alto-XML'
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+sources:
+  - reference: ''
+    link: https://archives.somme.fr/ark:/58483/tjrd8pq42716
 volume:
-  - metric: 'files'
-    count: 10
+  - metric: files
+    count: 9
+citation-file-link: https://github.com/alix-tz/dataset-celestine-doniau-danest/CITATION.cff
+transcription-guidelines: >-
+  De manière générale, les règles de transcription suivies sont immitatives. 
+
+
+  - Mots illisibles: durant la phase de transcription, les mots illisibles ont
+  été transcrits par \[???\]. Ils ont ensuite été résolus collectivement.
+
+  - Décoration du texte: les décorations comme le soulignage, etc, n'ont pas
+  fait l'objet d'une transcription distincte du reste du texte.
+
+  - Correction et normalisation: les fautes d'orthographes ont été reproduites
+  telles que dans la source, les espacements sont en revanche normalisés selon
+  l'usage moderne.
+
+  - Ponctuation: 
+      - pour la transcription des points (.) et des tirets (-), on a respecté le tracé dans la source plutôt que l'usage attendu car le tracé de ces deux signes est très distinct. 
+      - les signes de ponctuation double (:;?!) ne sont pas précédé d'un espace.
+
