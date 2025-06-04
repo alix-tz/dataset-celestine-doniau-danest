@@ -10,14 +10,14 @@ GT Celestine Doniau-Danest
 
 ## Description
 
-Jeu de vérités de terrain pour la transcription automatique produit avec eScriptorium dans le cadre du cours HNU2000 à l'Université de Montréal au trimestre d'automne 2024. Le jeu de données contient des pages tirées aléatoirement des numérisation du "Journal de Célestine Doniau-Danest sur les débuts de la Guerre 1914-1918" mis en ligne par les Archives départementales de la Somme. 
+Jeu de données de vérité de terrain pour la transcription automatique produites avec eScriptorium dans le cadre du cours HNU2000 à l'Université de Montréal au trimestre d'automne 2024. Le jeu de données contient des pages tirées aléatoirement des numérisation du "Journal de Célestine Doniau-Danest sur les débuts de la Guerre 1914-1918" mis [en ligne](https://archives.somme.fr/ark:/58483/tjrd8pq42716) par les Archives départementales de la Somme. 
 
-*Ground Truth dataset for automatic text recognition created with eScriptorium during the HNU 2000 course at the Université de Montréal during the Fall 2024 semester. The dataset contains pages taken randomly from the digitization of the "Journal de Célestine Doniau-Danest sur les débuts de la Guerre 1914-1918" (Diary of Célestine Doniau-Danest on the beginning of the 1914-1918 war), published by the departmental archives of Somme.*
+*Ground Truth dataset for automatic text recognition created with eScriptorium during the HNU 2000 course at the Université de Montréal during the Fall 2024 semester. The dataset contains pages taken randomly from the digitization of the "Journal de Célestine Doniau-Danest sur les débuts de la Guerre 1914-1918" (Diary of Célestine Doniau-Danest on the beginning of the 1914-1918 war), [published](https://archives.somme.fr/ark:/58483/tjrd8pq42716) by the departmental archives of Somme.*
 
 
 ## Extent
 
-Le jeu de données ne présente qu'une seule main d'écriture, peu de variation, pour un texte écrit entre 1914 et 1915. Les numérisations sotn des doubles-pages.
+Le jeu de données ne présente qu'une seule main d'écriture, peu de variation, pour un texte écrit entre 1914 et 1915. Les numérisations sont des doubles-pages.
 
 ## Annotation guidelines
 
